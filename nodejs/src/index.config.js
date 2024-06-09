@@ -18,6 +18,7 @@ export default {
             server: 'https://ali.liucn.repl.co',
         },
     ],
+    live: { url: ["http://47.116.64.171:49011/txt/fmml_ipv6.m3u", "电视直播"] },
     color: [
         {
             light: {
